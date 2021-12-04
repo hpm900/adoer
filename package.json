@@ -1,0 +1,9 @@
+{
+  "name" : " demo-repo " ,
+  "phiên bản" : " 0.2.0 " ,
+  "description" : " Một mẫu package.json " ,
+  "phụ thuộc" : {
+    "@ primer / css" : " 17.0.1 "
+  },
+  "giấy phép" : " MIT "
+}
